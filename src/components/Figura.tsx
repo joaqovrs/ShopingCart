@@ -15,7 +15,7 @@ export default function Figura({figura, addToCart} : FigurasProps) {
 
 
     return (
-        <div className="col-md-6 col-lg-4 my-4">
+        <div className="col-md-3 col-lg-3 my-4">
         {/* Imagen centrada arriba */}
         <div className="text-center">
             <img 

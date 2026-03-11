@@ -4,4 +4,4 @@ El proyecto está construido sobre una arquitectura basada en componentes utiliz
 
 <img width="2429" height="1579" alt="FigurasLA" src="https://github.com/user-attachments/assets/72f1ddc9-c92f-481a-9621-2d7681ec728d" />
 
-https://figurasla.netlify.app/
+**https://figurasla.netlify.app/**

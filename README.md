@@ -7,4 +7,3 @@ Puedes ver la pagina en el link de netlify abajo de la imagen de referencia.
 <img width="1920" height="1080" alt="338_1x_shots_so" src="https://github.com/user-attachments/assets/43bd5fed-ba2d-4632-b5d2-e8bc886a9ae3" />
 
 
-**https://figurasla.netlify.app/**
